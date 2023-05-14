@@ -1,0 +1,12 @@
+Table 1
+OBJECTID,Station,GPS Coordinate North,GPS Coordinate West,Parameter,Lab,Result,Unit,datetime
+1,HAMILTON AVE.,39.33673,-76.53967,Copper_Total,Martel,10,ug/L,3/4/95 13:30
+2,HAMILTON AVE.,39.33673,-76.53967,Fecal Coliform,Martel,2400,MPN/100ml,3/4/95 13:30
+3,HAMILTON AVE.,39.33673,-76.53967,Lead_Total,Martel,40,ug/L,3/4/95 13:30
+4,HAMILTON AVE.,39.33673,-76.53967,Oil & Grease,Martel,2.8,mg/L,3/4/95 13:30
+5,HAMILTON AVE.,39.33673,-76.53967,Zinc_Total,Martel,20,ug/L,3/4/95 13:30
+6,RADECKE AVE.,39.33036,-76.53478,Copper_Total,Martel,20,ug/L,3/4/95 15:40
+7,RADECKE AVE.,39.33036,-76.53478,Fecal Coliform,Martel,43,MPN/100ml,3/4/95 15:40
+8,RADECKE AVE.,39.33036,-76.53478,Lead_Total,Martel,30,ug/L,3/4/95 15:40
+9,RADECKE AVE.,39.33036,-76.53478,Oil & Grease,Martel,<2,mg/L,3/4/95 15:40
+10,RADECKE AVE.,39.33036,-76.53478,Zinc_Total,Martel,30,ug/L,3/4/95 15:40
